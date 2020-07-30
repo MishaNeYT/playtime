@@ -1,0 +1,19 @@
+name: PlayerTime
+author: MishaNeYT
+version: 1.0
+description: PlayerTime with time player by MishaNeYT
+main: ru.mishaneyt.pt.Main
+
+commands:
+  playtime:
+    usage: /<command>
+    aliases: [pt]
+    description: Shows playtime
+  serveruptime:
+    usage: /<command>
+    aliases: [uptime]
+    description: Shows how long the server has been up for
+  playtimereload:
+    usage: /<command>
+    aliases: [ptreload]
+    description: Reload config  
